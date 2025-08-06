@@ -1,1 +1,1 @@
-# Dinesh-L2Assessment
+# Inventory Management
